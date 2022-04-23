@@ -1,4 +1,4 @@
-# Hi there, I'm Silvestr, a.k.a. silverfatt.
+# Hi there, I'm Silvestr
 ### I'm a student
 
 - 🌱 Currently learning Python and C++

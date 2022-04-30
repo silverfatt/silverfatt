@@ -2,7 +2,7 @@
 ### I'm a student
 
 - 🌱 Currently learning Python and C++
-- 📚 Fond of studying of something new
+- 📚 Fond of studying something new
 - 😎 I'm not arguing if Python or C++ is better - I'm studying both!
 
 ### Languges and tools

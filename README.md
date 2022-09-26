@@ -34,8 +34,5 @@
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
 ![SQLAlchemy](https://img.shields.io/badge/sqlalchemy-000000?style=for-the-badge&logo=SQLAlchemy&logoColor=white)
 
-#### My stats
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=silverfatt&layout=compact&theme=dark&langs_count=10)
 
 

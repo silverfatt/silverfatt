@@ -36,6 +36,6 @@
 
 #### My stats
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=silverfatt&layout=compact&theme=dark&hide=richtextformat)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=silverfatt&layout=compact&theme=dark&hide=rich_text_format)
 
 

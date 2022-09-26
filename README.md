@@ -1,6 +1,11 @@
 # Hi there, I'm Silvestr
 ### I'm a student
 
+<a href="https://t.me/silverfatt">
+<img align="center" src="https://github.com/SLAST1/SLAST1/blob/main/sn_icons/telegram.png" alt="tg"/>
+</a>
+</p>
+
 
 - 🌱 Currently learning Python and C++
 - 📚 Fond of studying something new

@@ -1,6 +1,8 @@
 # Hi there, I'm Silvestr
 ### I'm a student
 
+[@silverfatt](http://t-do.ru/silverfatt "Telegram channel")
+
 - 🌱 Currently learning Python and C++
 - 📚 Fond of studying something new
 - 😎 I'm not arguing if Python or C++ is better - I'm studying both!

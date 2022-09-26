@@ -1,5 +1,4 @@
 # Hi there, I'm Silvestr
-### I'm a student
 
 ### Contact me:
 
@@ -8,6 +7,8 @@
 </a>
 </p>
 
+
+### I am a student.
 
 - 🌱 Currently learning Python and C++
 - 📚 Fond of studying something new
